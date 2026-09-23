@@ -4,7 +4,7 @@ Bash script for installing and configuring the **ELK Stack** on Ubuntu.
 
 ## Important Note
 
-* ELK component versions may change over time. Before running the script, check the current versions of Elasticsearch, Logstash, Kibana, Filebeat, GPG keys and update the script if necessary.
+ELK component versions may change over time. Before running the script, check the current versions of Elasticsearch, Logstash, Kibana, Filebeat, GPG keys and update the script if necessary.
 
 ## Components
 
