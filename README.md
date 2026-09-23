@@ -32,5 +32,5 @@ After installation:
 * Kibana: `:5601`
 * Logstash Beats input: `:5044`
 
-Built for quickly deploying ELK environment.
+Built for quickly deploying ELK lab environment.
 
